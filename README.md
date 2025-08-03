@@ -1,4 +1,4 @@
-🎬 Movie Metadata Analysis
+## 🎬 Movie Metadata Analysis
 This project dives into a large dataset of movie metadata to explore patterns and trends across genres, budgets, revenues, IMDb scores, and more.  
 Using Python and data analytics techniques, it demonstrates how movie industry data can be transformed into meaningful insights through visual storytelling.
 
